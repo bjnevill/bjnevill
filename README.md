@@ -1,36 +1,33 @@
 # Brian Jose Nevill
 
-**Data Science student at Ngee Ann Polytechnic · Singapore**  
-**GPA: 3.839 | Director's List**
+**Ngee Ann Polytechnic Data Science student · GPA 3.839**
 
-I'm interested in applying data analytics to **financial markets, trading operations, risk and business decisions**. My academic experience includes Excel and Power BI dashboards, SAP Analytics Cloud, Python, machine learning and data wrangling.
+Seeking internships in **finance, trading operations, banking, risk and data analytics**. My academic work focuses on preparing data, evaluating models and presenting business results clearly. I am interested in applying these skills to financial and operational decisions.
 
-## Featured academic work
+## Selected academic projects
 
-| Project | What I did | Tools |
-| --- | --- | --- |
-| [ASEAN Energy Analytics](https://github.com/bjnevill/asean-energy-analytics-powerbi) | Compared energy, GDP, emissions and environmental indicators | Power BI, Power Query, DAX |
-| [SAP Profitability Analytics](https://github.com/bjnevill/sales-profitability-sap-analytics) | Analysed sales, contribution margins, customers and products | SAP Analytics Cloud |
-| [Retail Profitability Dashboard](https://github.com/bjnevill/retail-sales-profitability-analysis) | Reported retail sales and margin KPIs | Excel |
-| [Machine Learning: Prediction & Segmentation](https://github.com/bjnevill/machine-learning-prediction-segmentation) | Built regression models and clustered online retail customers | Python, scikit-learn |
-| [Baseball Data Wrangling](https://github.com/bjnevill/baseball-data-wrangling-prediction) | Joined historical data and prepared next-season forecasting features | Python, pandas |
-| [Gruberoo Food Delivery System](https://github.com/bjnevill/P14_BrianJoseNevill_OngCongSiang) | Implemented order processing and operational reporting in a team assignment | C# |
+Six studies from my Semester 2 and 3 coursework; Semester 4 is in progress. Wine prediction and customer segmentation are separate studies within one assignment repository.
 
-## Finance learning
+| Study | Evidence and skills |
+| --- | --- |
+| [ASEAN energy and economy](https://github.com/bjnevill/asean-energy-analytics-powerbi) | Power Query, dimensions, DAX and three Power BI dashboards; report and previews |
+| [Sales profitability](https://github.com/bjnevill/sales-profitability-sap-analytics) | SAP Analytics Cloud, contribution margin and regional/customer/product reporting |
+| [Wine quality prediction](https://github.com/bjnevill/machine-learning-prediction-segmentation#key-findings-from-the-submitted-report) | Regression comparison, training-based preprocessing and model evaluation |
+| [Retail customer segmentation](https://github.com/bjnevill/machine-learning-prediction-segmentation#methodology-and-tools) | Customer-level RFM features, K-means and hierarchical clustering |
+| [Baseball data wrangling](https://github.com/bjnevill/baseball-data-wrangling-prediction) | Multi-table joins, next-season target alignment and baseline comparison |
+| [Gruberoo delivery operations](https://github.com/bjnevill/P14_BrianJoseNevill_OngCongSiang) | Team C# project; my contribution includes order management, bulk processing and favourites. Repository is currently private |
 
-**Forage virtual job simulations (not employment):**
-- Bank of America — Global Markets Sales and Trading Analyst (Oct 2026)
-- Bank of America — Investment Banking (Oct 2026)
-- Goldman Sachs — Risk (Oct 2026)
+## Technical skills demonstrated in coursework
 
-**Additional learning:** LSEG Finance Essentials; Capital City Training Investment Banking Fundamentals; LinkedIn Learning Data Engineering Foundations and Applied Machine Learning: Feature Engineering.
+- **Python:** pandas, NumPy, matplotlib, seaborn, scikit-learn; data cleaning, feature engineering, regression and clustering.
+- **Business intelligence:** Power BI, Power Query, DAX, SAP Analytics Cloud and Excel dimension tables.
+- **Programming and data:** C#, .NET, CSV handling, object-oriented design and relational joins.
+- **Communication:** dashboard design, methodology documentation, limitations and business recommendations.
 
-## Outside the classroom
+## Career interests
 
-Active volunteer with **Ngee Ann Leo Club** and member of **Ngee Ann Dragon Boat**, developing teamwork, community involvement and discipline.
+I want to develop practical experience in financial data quality, operational reporting, risk analysis and banking analytics. My coursework provides examples of my current skills and areas I am continuing to learn.
 
-## Connect
-- [LinkedIn](https://www.linkedin.com/in/nevill-bj-29a699361)
-- [GitHub](https://github.com/bjnevill)
+All work shown here is academic. Project metrics describe classroom datasets; they are not employer results. Each repository documents available artefacts and reproduction limits. Some original datasets and institutional dashboards require separate access. The private team project is not yet available to public recruiters.
 
-> All projects are academic work or virtual simulations. Repository documentation indicates where original project artefacts have not yet been uploaded.
+[GitHub](https://github.com/bjnevill)
